@@ -2,11 +2,11 @@
 #
 
 
-def using_times(phrase)
-7.times do 
-  put "Wingardium Leviosa"
-end
-
+def using_times
+	#your code here
+	7.times do
+		puts "Wingardium Leviosa"
+	end
 
 
 
