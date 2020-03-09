@@ -1,10 +1,11 @@
 #in
 #
 
-
-7.times do 
-  puts "Wingardium Leviosa"
+ef using_times
+	
 end
+7.times do 
+  put "Wingardium Leviosa"
 
 
 
